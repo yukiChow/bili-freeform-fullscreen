@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+[简体中文](README_zh-CN.md)
+
 An Xposed module for using full-screen playback from **Bilibili International**
 (`com.bilibili.app.in`) while the app is in a HyperOS freeform window.
 
