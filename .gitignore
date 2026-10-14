@@ -1,0 +1,18 @@
+# Android / Gradle build state
+.gradle/
+.gradle-user-home/
+build/
+app/build/
+local.properties
+*.apk
+
+# Locally provisioned Android SDK and build-download scratch files
+android-sdk/
+.download-gradle/
+.download-test/
+work-download-gradle.sh
+
+# IDE and operating-system files
+.idea/
+*.iml
+.DS_Store
